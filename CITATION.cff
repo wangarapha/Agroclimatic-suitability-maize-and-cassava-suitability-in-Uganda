@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated article. Data will be made publicly available upon acceptance."
+title: "Code for: Projected climate-driven shifts in maize and cassava suitability in Uganda"
+authors:
+  - family-names: Wangalwa
+    given-names: Rapheal
+    # orcid: "https://orcid.org/0000-0002-6700-9451"  
+license: MIT
+repository-code: "https://github.com/wangarapha/uganda-crop-suitability"  
+preferred-citation:
+  type: article
+  title: "Projected climate-driven shifts in maize and cassava suitability in Uganda: implications for adaptation planning and food security"
+  authors:
+    - family-names: Wangalwa
+      given-names: Rapheal
+  add co-authors: Zadoki Tabo, Upton Nuwagira, Hakim Bukenya, David Mubiru, Justine Nakintu, 
+                  Eunice A. Olet, Robert Muzira, Casim Umba Tolo, Grace Rugunda Kagoro, Daniel Ochieng Olago
+  journal: "Discover Sustainability"
+  status: submitted
+  # doi: "10.xxxx/xxxxx"   # to be added upon acceptance
